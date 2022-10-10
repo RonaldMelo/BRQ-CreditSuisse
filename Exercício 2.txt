@@ -1,0 +1,1 @@
+Criaria a nova categoria PEP no ENUM, setaria a propriedade IsPoliticallyExposed no construtor da classe Trade, implementaria a nova regra no Trade.GetCategory e escreveria um teste unitário para validar a regra.
